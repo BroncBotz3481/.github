@@ -4,6 +4,7 @@
 
 # Team Repos
 * FRC Team 3481 - [FRC2023](https://github.com/BroncBotz3481/FRC2023)
+  * [![Open in Github Codespaces]](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=508873808)
 * FTC Team 4008 - [FTC2023-4008](https://github.com/BroncBotz3481/FTC2023-4008)
 * FTC Team 4602 - [FTC2023-4602](https://github.com/BroncBotz3481/FTC2023-4602) 
 * FTC Team 6976 - [FTC2023-6976](https://github.com/BroncBotz3481/FTC2023-6976)
@@ -12,7 +13,7 @@
 * Our mentors have created example code to serve as a guide and show implementations within our rules.
 * The [repository](https://github.com/BroncBotz3481/FRC2022-MENTOR) is available in codespaces for live testing and development within the browser too! 
 * Remember to **DELETE** your codespace after you **PUSH** changes to your own repository that way you can make the most out of the 60hrs free per month!  
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567809275)
+* [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567809275)
 
 <details><summary>Bronc Botz Command Based Programming</summary>  
 
