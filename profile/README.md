@@ -15,13 +15,16 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567809275)
 
 <details><summary>Bronc Botz Command Based Programming</summary>  
+
 * Our organization follows the coding paradigm within the new CommandBased programming framework for FRC based off of ["The Art of Unix Programming"](https://www.catb.org/~esr/writings/taoup/html/ch01s06.html) rules.  
 * Our interpretation is as follows:
   * Subsystems = Interface  
   * Commands = Engines  
   * Policy = Policy  
+
 </details>
-<details><summary>Basic Architecture</summary>
+<details><summary>Basic Architecture</summary>  
+
 * All Subsystems **MUST** have a "Policy Class" which contains static variables that may be userful to access about that subsystem without having to fetch the object itself. 
   * Policy classes **MUST** be used for **ANY** algorithmic operation affecting a subsytem (if/then's).  
 * All algorithmic operations must be done via static functions within the "Policy Class".
@@ -34,8 +37,10 @@
 * All utility classes must be in their own package seperate from the commands and subsystems folder.  
 * All functions serve one purpose.  
   * For example if a motor controller needs configured there should be a single function which configures that motor controller.  
+
 </details>
-<details><summary>The Rules</summary>
+<details><summary>The Rules</summary>  
+
 1. Rule of Modularity  
 > Write simple parts connected by clean interfaces.  
 2. Rule of Clarity  
@@ -70,4 +75,5 @@
 > Distrust all claims for “one true way”.  
 17. Rule of Extensibility  
 > Design for the future, because it will be here sooner than you think.  
+
 </details>
