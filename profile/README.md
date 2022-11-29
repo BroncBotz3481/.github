@@ -4,7 +4,7 @@
 
 # Team Repos
 * FRC Team 3481 - [FRC2023](https://github.com/BroncBotz3481/FRC2023)
-[![Open in Github Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=508873808)
+[![Open in Github Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=508873808)
 * FTC Team 4008 - [FTC2023-4008](https://github.com/BroncBotz3481/FTC2023-4008)
 * FTC Team 4602 - [FTC2023-4602](https://github.com/BroncBotz3481/FTC2023-4602) 
 * FTC Team 6976 - [FTC2023-6976](https://github.com/BroncBotz3481/FTC2023-6976)
