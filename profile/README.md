@@ -15,6 +15,24 @@
 * Remember to **DELETE** your codespace after you **PUSH** changes to your own repository that way you can make the most out of the 60hrs free per month!  
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567809275)
 
+<details><summary>Bronc Botz Student Onboarding</summary>
+ 
+# Student Tasks
+1. Install WPILib, FRC Game Tools, REV Hardware Client, and CTRE Pheonix Tuner.
+2. Create a robot project and include the REVLib and CTRE libraries.
+3. Design (DONT FILL IN ANYTHING) a Command Based robot following our paradigm with the following mechanisms (assume all motors are `CANSparkMax`'s):
+  * Arm
+  * Differential Drive (4 motor drive train)
+  * Climber
+  * Shooter (Attached to arm)
+4. Prove the design follows our paradigm by submitting it for mentor validation.
+5. Fill in 3 of the subsystems.
+6. Create corresponding commands.
+7. Setup the default commands for every subsystem.
+8. Connect corresponding commands to a controller input.
+9. Submit for mentor validation.
+ 
+</details>
 <details><summary>Bronc Botz Command Based Programming</summary>  
 
 * Our organization follows the coding paradigm within the new CommandBased programming framework for FRC based off of ["The Art of Unix Programming"](https://www.catb.org/~esr/writings/taoup/html/ch01s06.html) rules.  
