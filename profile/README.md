@@ -20,11 +20,11 @@
 # Student Tasks
 1. Install WPILib, FRC Game Tools, REV Hardware Client, and CTRE Pheonix Tuner.
 2. Create a robot project and include the REVLib and CTRE libraries.
-3. Design (DONT FILL IN ANYTHING) a Command Based robot following our paradigm with the following mechanisms (assume all motors are `CANSparkMax`'s):
-  a. Arm
-  b. Differential Drive (4 motor drive train)
-  c. Climber
-  d. Shooter (Attached to arm)
+3. Design (DONT FILL IN ANYTHING) a Command Based robot following our paradigm with the following mechanisms (assume all motors are `CANSparkMax`'s):  
+  a. Arm  
+  b. Differential Drive (4 motor drive train)  
+  c. Climber  
+  d. Shooter (Attached to arm)  
 4. Prove the design follows our paradigm by submitting it for mentor validation.
 5. Fill in 3 of the subsystems.
 6. Create corresponding commands.
