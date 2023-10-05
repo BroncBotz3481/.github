@@ -3,11 +3,11 @@
 * Our repositories are free to use for any team to use as inspiration or code snippets!
 
 # Team Repos
-* FRC Team 3481 - [FRC2023](https://github.com/BroncBotz3481/ChargedUp2023)  
+* FRC Team 3481 - [FRC2024](https://github.com/BroncBotz3481/FRC2024)  
 [![Open in Github Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=594465053)
-* FTC Team 4008 - [FTC2023-4008](https://github.com/BroncBotz3481/FTC2023-4008)
-* FTC Team 4602 - [FTC2023-4602](https://github.com/BroncBotz3481/FTC2023-4602) 
-* FTC Team 6976 - [FTC2023-6976](https://github.com/BroncBotz3481/FTC2023-6976)
+* FTC Team 4008 - [FTC2024-4008](https://github.com/BroncBotz3481/FTC2024-4008)
+* FTC Team 4602 - [FTC2024-4602](https://github.com/BroncBotz3481/FTC2024-4602) 
+* FTC Team 6976 - [FTC2024-6976](https://github.com/BroncBotz3481/FTC2024-6976)
 
 # Mentor Example Code
 * Our mentors have created example code to serve as a guide and show implementations within our rules.
