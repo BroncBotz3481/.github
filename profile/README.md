@@ -9,6 +9,9 @@
 * FTC Team 4602 - [FTC2025-4602](https://github.com/BroncBotz3481/FTC2025-4602) 
 * FTC Team 6976 - [FTC2025-6976](https://github.com/BroncBotz3481/FTC2025-6976)
 
+# FTC BASE TEMPLATE 
+* [Mechanium Template](https://github.com/BroncBotz3481/FTC_MecanumWheel_Template)
+* 
 # Mentor Example Code
 * Our mentors have created example code to serve as a guide and show implementations within our rules.
 * The [repository](https://github.com/BroncBotz3481/FRC2022-MENTOR) is available in codespaces for live testing and development within the browser too! 
