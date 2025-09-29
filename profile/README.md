@@ -89,9 +89,9 @@
 2. Create a robot project and include the REVLib and CTRE libraries.
 3. Design a Command Based robot following our paradigm with the following mechanisms (assume all motors are `CANSparkMax`'s):  
   Arm  
-  Differential Drive (4 motor drive train)  
-  Climber  
-  Shooter (Attached to arm)  
+  Swerve Drive   
+  Elevator  
+  Shooter  
 4. Prove the design follows our paradigm by submitting it for mentor validation.
 5. Fill in 3 of the subsystems.
 6. Create corresponding commands.
